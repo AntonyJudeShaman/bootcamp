@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Prism&display=swap');
+.navbar-custom{
+    background: rgb(24, 37, 54);
+}
+
+.nav-link:hover{
+    background: #221d1f;
+    color:aqua !important;
+    border-radius: 100px;
+    font-family: 'Tilt Prism';
+}
+
+.nav-link, .navbar-brand, .navbar-home{
+    color:aliceblue !important; 
+}
+
+.backgd{
+    min-height: 100vh;
+    color:aliceblue;
+    text-align: center;
+    background-image: url("sky.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Tilt Prism';
+} 
